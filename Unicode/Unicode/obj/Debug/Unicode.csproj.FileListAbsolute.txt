@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\Unicode\Unicode\bin\Debug\Unicode.exe
+C:\Users\pc\source\repos\Unicode\Unicode\bin\Debug\Unicode.pdb
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.Form1.resources
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.Properties.Resources.resources
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.exe
+C:\Users\pc\source\repos\Unicode\Unicode\obj\Debug\Unicode.pdb
